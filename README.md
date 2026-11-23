@@ -1,2 +1,21 @@
-# Curso_BigData
-Repositorio con los ejercicios del curso de Big Data y Power BI - IronHack 23/11/2026
+# Curso Big Data y Power BI
+
+## Repositorio de los ejercicios del curso de *__IronHack__*
+
+*23/11/2026*
+
+
+                                   ♠
+                                  ♠♠♠
+                                 ♠♠♠♠♠
+                               ♠♠♠♠♠♠♠♠♠
+                              ♠♠♠♠♠♠♠♠♠♠♠
+                             ♠♠♠♠♠♠♠♠♠♠♠♠♠
+                           ♠♠♠♠♠♠♠♠♠♠♠♠♠♠♠♠♠
+                          ♠♠♠♠♠♠♠♠♠♠♠♠♠♠♠♠♠♠♠
+                         ♠♠♠♠♠♠♠♠♠♠♠♠♠♠♠♠♠♠♠♠♠
+                          ♠♠♠♠♠♠♠♠ ♠ ♠♠♠♠♠♠♠♠
+                           ♠♠♠♠♠♠  ♠  ♠♠♠♠♠♠
+                            ♠♠♠    ♠    ♠♠♠
+                                  ♠♠♠
+                                 ♠♠♠♠♠
